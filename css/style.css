@@ -1,0 +1,25 @@
+img {
+    width: 100px;
+    display: block;
+
+
+}
+#speciaal { 
+
+    background: lime;
+}
+
+.speciaal2 {
+
+    background: yellow;
+}
+body {
+    margin: 0;
+    background-image: url(https://c.tenor.com/ibK3fFISCygAAAAM/nyan-cat-cat.gif);
+
+
+}
+h1 {
+    color:purple;
+
+}
